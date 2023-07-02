@@ -15,7 +15,7 @@ npm install nodemon -D
 npm install mongoose
 
 npm install ejs
-# berhenti
+
 Pada File package.json bagian scripts ubah jadi gini
 
 &nbsp;&nbsp;"scripts": { <br/>
@@ -27,8 +27,9 @@ Pada File package.json bagian scripts ubah jadi gini
 
 
 Jalankan command ini
+
 #command
 npm run dev
-#berhenti
+
 terus masuk ke localhost:3000
 
