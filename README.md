@@ -5,7 +5,6 @@ Terus masuk ke foldernya pake cd
 
 Jalankan command berikut ini
 
-# command
 npm init -y
 
 npm install express
@@ -28,7 +27,6 @@ Pada File package.json bagian scripts ubah jadi gini
 
 Jalankan command ini
 
-#command
 npm run dev
 
 terus masuk ke localhost:3000
