@@ -10,11 +10,11 @@ npm install ejs
 
 Pada File package.json bagian scripts ubah jadi gini
 
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "node app.js",
-    "dev": "nodemon app.js"
-  },
+  "scripts": { <br/>
+    "test": "echo \"Error: no test specified\" && exit 1", <br/>
+    "serve": "node app.js", <br/>
+    "dev": "nodemon app.js" <br/>
+  }, <br/>
 
 
 
