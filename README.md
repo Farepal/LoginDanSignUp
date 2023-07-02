@@ -1,11 +1,16 @@
 # LoginDanSignUp
 Buat Folder baru dulu
+
 Jalankan command berikut ini
 
 npm init -y
+
 npm install express
+
 npm install nodemon -D
+
 npm install mongoose
+
 npm install ejs
 
 Pada File package.json bagian scripts ubah jadi gini
