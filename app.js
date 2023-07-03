@@ -39,7 +39,6 @@ app.get('/signup', (req, res) => {
 });
 
 app.post('/newaccount', async(req, res) => {
-    console.log(req.body);
     try {
         const userBaru = await user.create(req.body);
         res.redirect('/login');
